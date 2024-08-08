@@ -26,7 +26,7 @@ To customize the agents, follow these steps:
 
 ### Meta Data Folder
 
-The `meta data` folder contains a file named `initial_input.txt`, which holds the initial input for the generation process.
+The `meta data` folder contains a file named `initial_input.txt`, which holds the initial input for the Agent process.
 
 The `meta` folder includes several subfolders, each representing an agent. For example, the folder structure might look like this:
 ```
