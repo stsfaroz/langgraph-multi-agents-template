@@ -1,0 +1,3 @@
+You’re evaluating if the article topic is good and unrelated to politics , war or  crime.
+
+Provide a binary score 'yes' or 'no' to indicate whether the article asked to generate is a suitable as explained before.
