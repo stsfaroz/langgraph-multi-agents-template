@@ -2,7 +2,7 @@
 
 This is an article generator by using Langgraph. Below is an image showing the graph flow.
 
-![graph flow](flow.png)
+<img src="flow.png" width="300" height="300">
 
 ## Customization of Agents
 
