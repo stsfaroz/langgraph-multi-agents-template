@@ -1,4 +1,4 @@
-# Article Generator using Agents
+# Article Generator using Agents (starter template , feel free to customize)
 
 This is an article generator by using Langgraph. Below is an image showing the graph flow.
 
